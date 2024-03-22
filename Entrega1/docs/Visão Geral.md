@@ -2,11 +2,11 @@
 
 
 # Participantes:
-Bernardo Carvalho
-Vitor Rébula
-Albert Luís
-Thiago Cury
-Arthur Queiroz
+* Bernardo Carvalho
+* Vitor Rébula
+* Albert Luís
+* Thiago Cury
+* Arthur Queiroz
 
 
 
