@@ -30,31 +30,31 @@ O aplicativo permitirá o cadastro de eventos dentro dos projetos, além de poss
 
 
 
-# Entrevistas com Stakeholders:
+## Entrevistas com Stakeholders:
 
-## Host do Projeto Social (Anna):
+**Host do Projeto Social (Anna):**
 Requisitos de Cadastro e Autenticação
 Gerenciamento de Projetos Sociais
 Convite de Voluntários
 Registro de Eventos e Fotos
 
-## Voluntário do Projeto Social (Sandra):
+**Voluntário do Projeto Social (Sandra):**
 Requisitos de Cadastro e Autenticação
 Visualização e Interatividade com Projetos
 Notificações e Comunicação
 Avaliação de Projetos
 
-## ONG (ONG Terra):
+**ONG (ONG Terra):**
 Requisitos de Cadastro e Autenticação
 Divulgação de Atividades e Vagas de Voluntariado
 Comunicação com Possíveis Voluntários
 
-## Regras Gerais de Negócio:
+**Regras Gerais de Negócio:**
 Restrições de E-mail e Senha
 Padrões de Máscara para Campos
 Controle de Edição e Exclusão de Projetos
 
-## Requisitos Não Funcionais:
+**Requisitos Não Funcionais:**
 Compatibilidade com Navegadores e Dispositivos
 Utilização de API Token e Microsserviços
 Boas Práticas de Desenvolvimento
